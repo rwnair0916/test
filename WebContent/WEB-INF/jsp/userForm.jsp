@@ -16,6 +16,11 @@
 			<td><form:input path="name" /></td>
 		</tr>
 		<tr>
+		<tr>
+                        <td>Location :</td>
+                        <td><form:input path="name" /></td>
+                </tr>
+                <tr>
 			<td>Password :</td>
 			<td><form:password path="password" /></td>
 		</tr>
